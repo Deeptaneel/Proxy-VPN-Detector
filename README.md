@@ -1,10 +1,10 @@
-# rk311_infowise
+# VPN/Proxy Detector
 
 RK311 Vpn Proxy Detector
 
 ## Note: Breaking Changes
 
-- Reportst are now added a lat,lng for use on map display on report. This breaks the report display for old reports in the database that do not have a lat,ling
+- Reports are now added a lat,lng for use on map display on report. This breaks the report display for old reports in the database that do not have a lat,ling
 
 ## Need to Install
 
